@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+    background-image: url(../images/runshoes\ \(2\).png);
+}
+
+.thank-you-page {
+    text-align: center;
+    padding: 50px;
+    background-color: #ffffff;
+    max-width: 600px;
+    margin: 50px auto;
+    border-radius: 8px;
+    box-shadow: black;
+}
+.thank-you-page img {
+    width: 70px;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    color: orangered;
+}
+h2{
+    color: black;
+}
+
+p {
+    font-size: 1.2rem;
+    color: #333;
+}
+
+
+  
+.order-summary {
+    margin-top: 20px;
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 60px;
+    cursor: pointer;
+    margin-top: 30px;
+}
+
+button:hover {
+    background-color: black;
+}
